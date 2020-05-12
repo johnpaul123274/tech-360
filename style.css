@@ -44,7 +44,8 @@ h3 {
 
 /*style for heading*/
 
-h2 {
+h2,
+{
     color: crimson;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
@@ -62,4 +63,24 @@ h5 {
 tr {
     color: red;
     background-color: black;
+}
+
+
+/*style in css.html*/
+
+h1 {
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#intro {
+    margin-top: 24px;
+    padding: 16px 32px;
+    border: solid black;
+    border-style: double;
+    margin: 50px;
+    color: brown;
+    font-size: 40px;
 }
