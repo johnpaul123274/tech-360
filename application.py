@@ -1,2 +1,2 @@
-import turtle
-turtle.forward(90)
+for i in range(10):
+    print(i)
